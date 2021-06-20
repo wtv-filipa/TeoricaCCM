@@ -1,3 +1,9 @@
+/*meus estilos*/
+.tamanhoLogo{
+  height: auto;
+  width: 80px;
+}
+
 /*
 Template Name: Meghna Responsive HTML5/CSS3 Business Template
 Author: Themefisher
@@ -622,18 +628,6 @@ a:hover {
 .hero-area .block {
   text-align: center;
   z-index: 99;
-}
-
-.hero-area .block .video-button a {
-  background: #fff;
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  border-radius: 50px;
-  line-height: 60px;
-  font-size: 20px;
-  margin-left: 3px;
-  color: #FDC8D0;
 }
 
 .hero-area .block h1 {
