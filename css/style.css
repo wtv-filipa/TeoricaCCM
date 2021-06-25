@@ -85,7 +85,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #BCE7FD;
 }
 
 .kill-margin-bottom {
@@ -171,7 +171,7 @@ a:hover {
 }
 
 .color {
-  color: #6CB670;
+  color: #BCE7FD;
 }
 
 .sub-title {
@@ -603,7 +603,7 @@ a:hover {
 }
 
 .bg-1 {
-  background-image: url("../images/backgrounds/bg-1.jpg");
+  background-image: url("../images/backgrounds/bg-1.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -892,7 +892,7 @@ a:hover {
 }
 
 .success {
-  background-color: #6cb670;
+  background-color: #BCE7FD;
   border-radius: 4px;
   color: #fff;
   display: none;
@@ -1676,9 +1676,9 @@ a:hover {
 }
 
 .twitter-bird span {
-  border: 2px solid #6cb670;
+  border: 2px solid #BCE7FD;
   border-radius: 50px;
-  color: #6cb670;
+  color: #BCE7FD;
   display: inline-block;
   margin-bottom: 50px;
   height: 90px;
@@ -1694,7 +1694,7 @@ a:hover {
 }
 
 .tweet a {
-  color: #6cb670;
+  color: #BCE7FD;
 }
 
 /*=================================================================
@@ -1706,9 +1706,9 @@ a:hover {
 }
 
 .blog-icon {
-  border: 1px solid #6CB670;
+  border: 1px solid #BCE7FD;
   border-radius: 50%;
-  color: #6CB670;
+  color: #BCE7FD;
   display: inline-block;
   padding: 16px 20px;
 }
@@ -1794,7 +1794,7 @@ a:hover {
 }
 
 .post-meta a:hover {
-  color: #6CB670;
+  color: #BCE7FD;
 }
 
 .post-excerpt .more {
@@ -1808,7 +1808,7 @@ a:hover {
 }
 
 .post-excerpt .more a:hover {
-  background-color: #6CB670;
+  background-color: #BCE7FD;
   color: #fff;
 }
 
@@ -1856,9 +1856,9 @@ aside.widget {
 }
 
 .tab-post-nav li.active a {
-  border-top: 3px solid #6cb670;
+  border-top: 3px solid #BCE7FD;
   background-color: #2F383D;
-  color: #6CB670;
+  color: #BCE7FD;
 }
 
 .tab-pane.active .clearfix:first-child {
@@ -1876,7 +1876,7 @@ aside.widget {
 }
 
 .tab-excerpt h4 a:hover {
-  color: #6cb670;
+  color: #BCE7FD;
 }
 
 .tab-post-nav li a {
@@ -1894,7 +1894,7 @@ aside.widget {
 
 .categories > li:hover a {
   padding-left: 10px;
-  color: #6CB670;
+  color: #BCE7FD;
 }
 
 .categories > li:last-child {
@@ -1915,7 +1915,7 @@ aside.widget {
 }
 
 .widget-content .tag:hover {
-  background-color: #6CB670;
+  background-color: #BCE7FD;
   color: #fff;
 }
 
@@ -1951,7 +1951,7 @@ aside.widget {
 
 .post-pagination ul li a:hover,
 .post-pagination ul li.active a {
-  background-color: #6CB670;
+  background-color: #BCE7FD;
   color: #fff;
 }
 
@@ -1965,7 +1965,7 @@ aside.widget {
 }
 
 blockquote {
-  border-left: 5px solid #6cb670;
+  border-left: 5px solid #BCE7FD;
   font-style: italic;
   line-height: 22px;
   margin: 20px 0;
@@ -1979,7 +1979,7 @@ blockquote {
 }
 
 .next-prev a:hover {
-  color: #6CB670;
+  color: #BCE7FD;
 }
 
 .prev-post i {
@@ -2050,7 +2050,7 @@ blockquote {
 }
 
 .author-comment cite a:hover, .replay:hover {
-  color: #6CB670;
+  color: #BCE7FD;
   text-decoration: underline;
 }
 
@@ -2076,7 +2076,7 @@ blockquote {
 }
 
 #comment-form .form-control:hover {
-  border-color: #6CB670;
+  border-color: #BCE7FD;
 }
 
 .form-group:last-child,
